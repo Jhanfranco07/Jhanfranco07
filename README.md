@@ -134,7 +134,7 @@ Trabajo bajo un enfoque orientado a soluciones:
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jhan-perez-a7a63a29a/  
+- 💼 LinkedIn: https://www.linkedin.com/in/jhandev07/  
 - 📧 Email: jhandev07@gmail.com  
 - 💻 GitHub: https://github.com/Angie2-CuentaTrabajo  
 
