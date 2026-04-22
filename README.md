@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jhan
 
-💻 Desarrollador enfocado en soluciones digitales reales  
+💻 Desarrollador enfocado en construir soluciones digitales reales  
 🚀 Web + Automatización + Inteligencia Artificial  
 📍 Lima, Perú  
 
@@ -8,12 +8,15 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Ingeniería de Sistemas  
-- ⚙️ Desarrollador Fullstack (Frontend + Backend)  
-- 🤖 Desarrollo chatbots y asistentes inteligentes  
+Soy estudiante de Ingeniería de Sistemas con enfoque en desarrollo de soluciones tecnológicas aplicables a problemas reales.
+
+Trabajo combinando desarrollo web moderno, automatización de procesos e inteligencia artificial para construir herramientas útiles, escalables y orientadas a impacto.
+
+- ⚙️ Desarrollo Fullstack (Frontend + Backend)  
+- 🤖 Construcción de chatbots y asistentes inteligentes  
 - 🔄 Automatización de procesos y generación de documentos  
 - 🏛️ Experiencia en soluciones para sector público  
-- 📈 Enfocado en construir herramientas útiles, escalables y aplicables  
+- 📊 Enfoque en datos, eficiencia operativa y productividad  
 
 ---
 
@@ -50,14 +53,21 @@
 ### 🤖 IA / Automatización
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks)
 
 ---
 
-### 🛠️ Herramientas / DevOps
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🛠️ DevOps & Deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🔧 Herramientas de desarrollo
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
@@ -78,9 +88,20 @@
 |--------|------------|------------|
 | 🤖 Chatbot IA | Asistente inteligente para consultas automatizadas | Python, NLP, APIs |
 | ⚙️ Sistema SaaS | Plataforma de gestión de procesos y datos | Next.js, Prisma, PostgreSQL |
-| 📊 Dashboard | Visualización de datos en tiempo real | React |
-| 🔄 Automatización | Generación automática de documentos | Python |
-| 🌐 Portafolio | Web profesional moderna | Next.js, Tailwind |
+| 📊 Dashboard Analytics | Visualización de datos y reportes en tiempo real | React |
+| 🔄 Automatización Documental | Generación automática de documentos | Python |
+| 🌐 Portafolio Profesional | Web moderna para servicios y proyectos | Next.js, Tailwind |
+
+---
+
+## 🏗️ Enfoque de desarrollo
+
+Trabajo bajo un enfoque orientado a soluciones:
+
+- 🔍 Análisis del problema  
+- 🧩 Diseño de arquitectura  
+- ⚙️ Desarrollo modular y escalable  
+- 🚀 Despliegue y mejora continua  
 
 ---
 
@@ -113,8 +134,8 @@
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jhan-perez-a7a63a29a/
-- 📧 Email: jhandev07@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jhan-perez-a7a63a29a/  
+- 📧 Email: jhandev07@gmail.com  
 - 💻 GitHub: https://github.com/Angie2-CuentaTrabajo  
 
 ---
