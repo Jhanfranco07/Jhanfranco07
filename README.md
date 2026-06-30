@@ -117,16 +117,19 @@ Trabajo bajo un enfoque orientado a soluciones:
 
 ## 📊 Estadísticas
 
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jhanfranco07&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Jhanfranco07&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub stats"
   />
+</p>
 
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhanfranco07&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhanfranco07&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
-
+</p>
 ---
 
 ## 🎯 Objetivos 2026
