@@ -117,9 +117,19 @@ Trabajo bajo un enfoque orientado a soluciones:
 
 ## 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angie2-CuentaTrabajo&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_REAL&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub stats"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angie2-CuentaTrabajo&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_REAL&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
@@ -136,7 +146,7 @@ Trabajo bajo un enfoque orientado a soluciones:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jhandev07/  
 - 📧 Email: jhandev07@gmail.com  
-- 💻 GitHub: https://github.com/Angie2-CuentaTrabajo  
+- 💻 GitHub: https://github.com/Jhanfranco07
 
 ---
 
