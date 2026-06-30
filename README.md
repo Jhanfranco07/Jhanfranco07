@@ -126,20 +126,6 @@ Me interesa especialmente desarrollar sistemas que ayuden a optimizar procesos o
 
 ## 📂 Proyectos destacados
 
-### 🤖 PACHABOT — Asistente inteligente municipal
-
-Asistente conversacional orientado a trámites municipales, con enfoque en comercio ambulatorio, recuperación documental, memoria conversacional y respuestas sustentadas en fuentes normativas.
-
-- RAG local con TF-IDF y similitud coseno  
-- FastAPI para exposición de endpoints  
-- OpenAI SDK como proveedor LLM  
-- Memoria conversacional y validación de evidencia  
-- Preparado para integración futura con WhatsApp o portal web  
-
-**Stack:** Python, FastAPI, OpenAI, scikit-learn, pytest, RAG  
-🔗 Repositorio: [PACHABOT](https://github.com/Jhanfranco07/PACHABOT)
-
----
 
 ### 🧠 SmartClaim AI — Clasificador inteligente de reclamos
 
@@ -171,21 +157,6 @@ Aplicación web enfocada en productividad académica. Permite organizar tareas, 
 
 ---
 
-### 🏢 SUT License Automation — Automatización de licencias
-
-Script de automatización para carga masiva de licencias de funcionamiento en el portal SUT de la PCM, procesando archivos CSV/Excel y registrando resultados por cada carga.
-
-- Automatización web con Playwright  
-- Procesamiento de archivos CSV y Excel  
-- Manejo de sesiones autenticadas  
-- Validación y normalización de datos  
-- Capturas automáticas en caso de error  
-
-**Stack:** Python, Playwright, Pandas, Excel, CSV, Chromium  
-🔗 Repositorio: [SUT-License-Automation](https://github.com/Jhanfranco07/SUT-License-Automation)
-
----
-
 ### 🚪 Detector de emociones — CNN + LLM
 
 Aplicación de visión computacional que detecta emociones faciales mediante una CNN y genera una respuesta contextual usando un modelo de lenguaje.
@@ -198,21 +169,6 @@ Aplicación de visión computacional que detecta emociones faciales mediante una
 
 **Stack:** Python, Keras, OpenCV, Gradio, Hugging Face, Qwen, CNN  
 🔗 Repositorio: [Detector-emociones](https://github.com/Jhanfranco07/Detector-emociones)
-
----
-
-### 🗺️ MapComercio — Visualización geográfica de comercio
-
-Aplicación web para representar información comercial en mapas interactivos, con soporte para datos desde Google Sheets, CSV y Excel.
-
-- Visualización de negocios en mapa  
-- Consulta de autorizaciones vigentes  
-- Historial de autorizaciones por persona  
-- Integración con Google Sheets API  
-- Respaldo local con CSV/Excel  
-
-**Stack:** HTML, CSS, JavaScript, Python, Google Sheets API, CSV, Excel, Maps  
-🔗 Repositorio: [MapComercio](https://github.com/Jhanfranco07/MapComercio)
 
 ---
 
